@@ -19,7 +19,5 @@ public class Computer {
                 "Ram Size "+RamSize+"\n"+
                 "Storage Size"+StorageSize+"\n"+
                 "Processor "+Processor+"\n";
-
-
     }
 }

@@ -1,5 +1,6 @@
 public class testlogger{
     private static volatile testlogger logged;
+
     private testlogger(){
         System.out.println("Instance created");
     }

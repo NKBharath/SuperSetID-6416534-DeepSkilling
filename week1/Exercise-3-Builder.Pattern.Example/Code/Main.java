@@ -4,5 +4,6 @@ public class Main {
                             .SetCpu("Intel").SetRamSize(16)
                             .SetStorageSize(2048).SetProcessor("Intel I9").Build();
         System.out.println(computer);
+        System.out.println(3%6);
     }
 }
