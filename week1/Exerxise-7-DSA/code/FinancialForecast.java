@@ -1,6 +1,5 @@
 public class FinancialForecast {
 
-    // Recursive method
     public static double futureValue(double currentValue, double growthRate, int years) {
         // Base case
         if (years == 0) {
